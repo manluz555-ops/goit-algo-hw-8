@@ -1,0 +1,2 @@
+# No external dependencies
+python>=3.13
